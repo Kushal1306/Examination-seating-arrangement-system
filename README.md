@@ -1,4 +1,4 @@
-# Examination-seating-arrangement-system1
+# Examination-seating-arrangement-system
 Developed a flexible exam seat allotment system offering random seat assignments and manual seat allocation, enhancing
 the management of students, faculties, and examination rooms.
 
